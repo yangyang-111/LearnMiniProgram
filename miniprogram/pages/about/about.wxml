@@ -1,0 +1,5 @@
+<!--miniprogram/pages/about/about.wxml-->
+<text class="title">Hello Word</text>
+<button size="mini">确定</button>
+<image>图片</image>
+
